@@ -1,0 +1,47 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:../src/storage/jobscaster.db"
+}
+
+model TrackedJobPosting {
+  id String @id @default(uuid())
+
+  hash         String @unique
+  warpcastLink String @unique
+
+  title          String
+  company        String?
+  companyWebsite String?
+  description    String?
+  location       String?
+  type           String?
+  seniority      String?
+  salary         String?
+  currency       String?
+  equity         String?
+  category       String?
+  subcategory    String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  jobAuthorFid Int
+  author       JobAuthor @relation(fields: [jobAuthorFid], references: [fid])
+}
+
+model JobAuthor {
+  fid Int @id
+
+  username    String @unique
+  displayName String
+  avatar      String
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  jobPostings TrackedJobPosting[]
+}

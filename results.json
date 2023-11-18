@@ -1,0 +1,1246 @@
+[
+  {
+    "extractedDetails": null,
+    "body": "If you're unemployed and need healthcare, some volunteering organizations offer additional benefits such as gym/wellness memberships, therapy, and lawyer consultations. Doesn't cover everything but good to supplement for the time being!",
+    "cast": {
+      "hash": "0x7b5ee303f6a681e3df300736f2cdfa2c02632348",
+      "thread_hash": "0x7b5ee303f6a681e3df300736f2cdfa2c02632348",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 1606,
+        "custody_address": "0x224d5945d8037918df5d21d917a6ce31125c2040",
+        "username": "samantha",
+        "display_name": "Sam",
+        "pfp_url": "https://i.seadn.io/gae/wOKvMXEOs1E7KRs9QpMJiYPGwHWkiGJ34Asl_1q0y9h8-9eGsVHJhCf2EXnhaanthIJ2nrUaiJZd9owHE_EZ-Y8Q-SOa9XO6tcDt?w=500&auto=format",
+        "profile": {
+          "bio": {
+            "text": "they/them, art student, constantly learning ",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 2028,
+        "following_count": 247,
+        "verifications": [
+          "0xd5b472ffaf39476f83b8975667169ab6f9216dcd"
+        ],
+        "active_status": "active"
+      },
+      "text": "If you're unemployed and need healthcare, some volunteering organizations offer additional benefits such as gym/wellness memberships, therapy, and lawyer consultations. Doesn't cover everything but good to supplement for the time being!",
+      "timestamp": "2023-11-14T00:07:43.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 17395,
+            "fname": "ariadna"
+          },
+          {
+            "fid": 195091,
+            "fname": "greyseymour"
+          },
+          {
+            "fid": 20752,
+            "fname": "bsodmyslf.eth"
+          },
+          {
+            "fid": 2755,
+            "fname": "bichonxattack"
+          },
+          {
+            "fid": 13086,
+            "fname": "94086.eth"
+          },
+          {
+            "fid": 11770,
+            "fname": "adam-"
+          },
+          {
+            "fid": 11244,
+            "fname": "bfg"
+          },
+          {
+            "fid": 17186,
+            "fname": "positron"
+          },
+          {
+            "fid": 14496,
+            "fname": "vkcs"
+          },
+          {
+            "fid": 1285,
+            "fname": "benersing"
+          },
+          {
+            "fid": 5991,
+            "fname": "mxvoid"
+          },
+          {
+            "fid": 19716,
+            "fname": "picnic"
+          },
+          {
+            "fid": 2745,
+            "fname": "sdv"
+          },
+          {
+            "fid": 9055,
+            "fname": "usersteen-eth"
+          },
+          {
+            "fid": 1610,
+            "fname": "bwilde"
+          },
+          {
+            "fid": 5341,
+            "fname": "jamesmorgan"
+          },
+          {
+            "fid": 1236,
+            "fname": "syed"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 20752,
+            "fname": "bsodmyslf.eth"
+          },
+          {
+            "fid": 13086,
+            "fname": "94086.eth"
+          }
+        ]
+      },
+      "replies": {
+        "count": 2
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": null,
+    "body": "I've written on-site copy and blogs in onchain loyalty and recently co-wrote three handbooks for arts and culture professionals getting into web3.\n\nBroad marketing experience before that. If you need someone with good taste and technical chops to write what ChatGPT won't hmu for my resume / portfolio / calendly 🫡",
+    "cast": {
+      "hash": "0x3d41ad6139c6014a1bc5c430df0b66016373fe1e",
+      "thread_hash": "0x3d41ad6139c6014a1bc5c430df0b66016373fe1e",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 13595,
+        "custody_address": "0x0f3838c939b27b7780032773f14c502461217099",
+        "username": "evanforman.eth",
+        "display_name": "Evan",
+        "pfp_url": "https://i.imgur.com/C988noV.jpg",
+        "profile": {
+          "bio": {
+            "text": "design / writing / software",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 23,
+        "following_count": 35,
+        "verifications": [
+          "0x419f25f5d6d65a1ad909ed659ee5d48fa762ac91"
+        ],
+        "active_status": "inactive"
+      },
+      "text": "I've written on-site copy and blogs in onchain loyalty and recently co-wrote three handbooks for arts and culture professionals getting into web3.\n\nBroad marketing experience before that. If you need someone with good taste and technical chops to write what ChatGPT won't hmu for my resume / portfolio / calendly 🫡",
+      "timestamp": "2023-11-13T22:52:29.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 1356,
+            "fname": "farcasteradmin.eth"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": {
+      "title": "Developer Relations",
+      "company": "zkPass",
+      "companyWebsite": "https://zkpass.org/home",
+      "description": "looking to hire a DevRel person based in the west",
+      "location": "West",
+      "type": "Full-Time",
+      "seniority": "Mid-Level",
+      "category": "Software Engineering"
+    },
+    "body": "I know a zk company (https://zkpass.org/home) looking to hire a DevRel person based in the west. If you’re interested or know someone who would be please DM me.",
+    "cast": {
+      "hash": "0xbe013dbda586b4785b191b3f1c7e528306b4f8b2",
+      "thread_hash": "0xbe013dbda586b4785b191b3f1c7e528306b4f8b2",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 16148,
+        "custody_address": "0xcc168396cb323f4828192b4d78c3f7848314228e",
+        "username": "eulerlagrange.eth",
+        "display_name": "EulerLagrange",
+        "pfp_url": "https://i.imgur.com/UW0nhoS.jpg",
+        "profile": {
+          "bio": {
+            "text": "I collect memes like baseball cards, and work on zk/crypto/web3/identity on the side.",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 2636,
+        "following_count": 218,
+        "verifications": [
+          "0x68b44ea0b78aff90e328406768bedcd387000d31"
+        ],
+        "active_status": "active"
+      },
+      "text": "I know a zk company (https://zkpass.org/home) looking to hire a DevRel person based in the west. If you’re interested or know someone who would be please DM me.",
+      "timestamp": "2023-11-13T16:48:45.000Z",
+      "embeds": [
+        {
+          "url": "https://zkpass.org/home"
+        }
+      ],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 4044,
+            "fname": "alec.eth"
+          },
+          {
+            "fid": 11244,
+            "fname": "bfg"
+          },
+          {
+            "fid": 15590,
+            "fname": "akorede"
+          },
+          {
+            "fid": 190591,
+            "fname": "milestone"
+          },
+          {
+            "fid": 17186,
+            "fname": "positron"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": {
+      "title": "Founding Engineer",
+      "company": "Trust Machines",
+      "companyWebsite": "https://boards.greenhouse.io/trustmachines",
+      "description": "I’m hiring a founding engineer for a Bitcoin DeFi protocol.",
+      "location": "Remote",
+      "type": "Full-Time",
+      "seniority": "Senior",
+      "equity": "Yes",
+      "category": "Software Engineering"
+    },
+    "body": "Hi there 👋 - I’m hiring a founding engineer for a Bitcoin DeFi protocol. Details here https://boards.greenhouse.io/trustmachines/jobs/4983065004",
+    "cast": {
+      "hash": "0xb0e13ef811295430836b08d0980e9cf039391823",
+      "thread_hash": "0xb0e13ef811295430836b08d0980e9cf039391823",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 194058,
+        "custody_address": "0xf13950e3b7c90837d1f0e6a17d2873531a4508eb",
+        "username": "rena",
+        "display_name": "Rena",
+        "pfp_url": "https://i.imgur.com/NbQpSJZ.jpg",
+        "profile": {
+          "bio": {
+            "text": "Building on Bitcoin @Trust Machines; Avid Scuba Diver 🤿",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 13,
+        "following_count": 56,
+        "verifications": [
+          "0xabf93061d785e65e80a85ea4e3d62966a36c3b56"
+        ],
+        "active_status": "inactive"
+      },
+      "text": "Hi there 👋 - I’m hiring a founding engineer for a Bitcoin DeFi protocol. Details here https://boards.greenhouse.io/trustmachines/jobs/4983065004",
+      "timestamp": "2023-11-13T15:10:23.000Z",
+      "embeds": [
+        {
+          "url": "https://boards.greenhouse.io/trustmachines/jobs/4983065004"
+        }
+      ],
+      "reactions": {
+        "likes": [],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": null,
+    "body": "What would you do for a warp Anon?\n\nhttps://warpcast.com/mcbain/0x1889203a",
+    "cast": {
+      "hash": "0x1146fd180133bef122f9a980c4a596e9bb87bc1e",
+      "thread_hash": "0x1146fd180133bef122f9a980c4a596e9bb87bc1e",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 12582,
+        "custody_address": "0x847d133e18eb9a7d86a18241417a291dbc2c2d27",
+        "username": "navi3",
+        "display_name": "navi3",
+        "pfp_url": "https://i.imgur.com/FHAA9kN.jpg",
+        "profile": {
+          "bio": {
+            "text": "you know less than you think",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 40,
+        "following_count": 76,
+        "verifications": [],
+        "active_status": "inactive"
+      },
+      "text": "What would you do for a warp Anon?\n\nhttps://warpcast.com/mcbain/0x1889203a",
+      "timestamp": "2023-11-12T02:53:39.000Z",
+      "embeds": [
+        {
+          "url": "https://warpcast.com/mcbain/0x1889203a"
+        }
+      ],
+      "reactions": {
+        "likes": [],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": null,
+    "body": "Crypto jobs for non-developers\n\nI'm looking for a new job, preferably in the crypto sector. But apart from development and design/marketing, there doesn't seem to be much out there (especially in Europe). I don't have the time to start from scratch, but I have a lot of experience in other areas. Do you have any tips?",
+    "cast": {
+      "hash": "0xc8bea83655e4b459696cf565753f5ec68cebc950",
+      "thread_hash": "0xc8bea83655e4b459696cf565753f5ec68cebc950",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 18379,
+        "custody_address": "0x0a7c8848791aa8fa3c18455b9ec07e8e93a64940",
+        "username": "bored-duck.eth",
+        "display_name": "bored duck",
+        "pfp_url": "https://i.imgur.com/qNM53kM.jpg",
+        "profile": {
+          "bio": {
+            "text": "",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 40,
+        "following_count": 91,
+        "verifications": [
+          "0xbfc59f03368822bf381c1995df910a24300a23ab"
+        ],
+        "active_status": "inactive"
+      },
+      "text": "Crypto jobs for non-developers\n\nI'm looking for a new job, preferably in the crypto sector. But apart from development and design/marketing, there doesn't seem to be much out there (especially in Europe). I don't have the time to start from scratch, but I have a lot of experience in other areas. Do you have any tips?",
+      "timestamp": "2023-11-11T20:02:27.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 11477,
+            "fname": "rafaelxfajardo"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": null,
+    "body": "Most jobs were about helping robots make robots.",
+    "cast": {
+      "hash": "0x6a389eaaca44e427524e0ab1c36ba072e261bd80",
+      "thread_hash": "0x6a389eaaca44e427524e0ab1c36ba072e261bd80",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 11760,
+        "custody_address": "0x48331acb73cc63d852aa138e122352722b65f8e7",
+        "username": "na",
+        "display_name": "not a wrapper ",
+        "pfp_url": "https://i.imgur.com/KqcVRTs.jpg",
+        "profile": {
+          "bio": {
+            "text": "",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 296,
+        "following_count": 56,
+        "verifications": [
+          "0xaaf91d2f1978b3c2405a71a7b797db0afc14fa1c"
+        ],
+        "active_status": "inactive"
+      },
+      "text": "Most jobs were about helping robots make robots.",
+      "timestamp": "2023-11-11T17:56:51.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 7396,
+            "fname": "seve"
+          },
+          {
+            "fid": 6861,
+            "fname": "boredhead"
+          },
+          {
+            "fid": 12567,
+            "fname": "philcockfield.eth"
+          },
+          {
+            "fid": 1287,
+            "fname": "july"
+          },
+          {
+            "fid": 5492,
+            "fname": "anurajenp"
+          },
+          {
+            "fid": 617,
+            "fname": "cameron"
+          },
+          {
+            "fid": 1626,
+            "fname": "mcbain"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 1
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": null,
+    "body": "I was part of the recent layoffs at OpenSea last week. I worked on the Trust & Safety team, and handled content moderation & L2 user support tickets.\n\nIf you’re looking for an experienced security nerd who is also well versed in community building with a focus on team and consumer safety on social media - hit me up!",
+    "cast": {
+      "hash": "0xfe109883bc5de9c137906fd5aa98cc1ba237ef93",
+      "thread_hash": "0xfe109883bc5de9c137906fd5aa98cc1ba237ef93",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 14828,
+        "custody_address": "0x233eec496e8ec0f16406a6f6be55d4c9c7a9a86a",
+        "username": "plum",
+        "display_name": "Plum",
+        "pfp_url": "https://i.imgur.com/LqHEiTm.jpg",
+        "profile": {
+          "bio": {
+            "text": "Ex-OpenSea Trust & Safety ~ Web3/Crypto/Social media security nerd ~ Internet mom ~ Gamer ~ I cannot code so don’t ask 😆\n\n@plumferno on Twitter/Disc/TG",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 85,
+        "following_count": 105,
+        "verifications": [],
+        "active_status": "inactive"
+      },
+      "text": "I was part of the recent layoffs at OpenSea last week. I worked on the Trust & Safety team, and handled content moderation & L2 user support tickets.\n\nIf you’re looking for an experienced security nerd who is also well versed in community building with a focus on team and consumer safety on social media - hit me up!",
+      "timestamp": "2023-11-11T15:19:23.000Z",
+      "embeds": [
+        {
+          "url": "https://i.imgur.com/D7nGQVL.jpg"
+        }
+      ],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 17395,
+            "fname": "ariadna"
+          },
+          {
+            "fid": 2119,
+            "fname": "denze"
+          },
+          {
+            "fid": 10174,
+            "fname": "cryptowenmoon"
+          },
+          {
+            "fid": 194171,
+            "fname": "dannweeeee"
+          },
+          {
+            "fid": 1285,
+            "fname": "benersing"
+          },
+          {
+            "fid": 5466,
+            "fname": "nataliecrue"
+          },
+          {
+            "fid": 1315,
+            "fname": "manansh"
+          },
+          {
+            "fid": 5818,
+            "fname": "adriennetenger.eth"
+          },
+          {
+            "fid": 190624,
+            "fname": "dthinks"
+          },
+          {
+            "fid": 16152,
+            "fname": "netopwibby.eth"
+          },
+          {
+            "fid": 17186,
+            "fname": "positron"
+          },
+          {
+            "fid": 11448,
+            "fname": "yesyes"
+          },
+          {
+            "fid": 2952,
+            "fname": "abe"
+          },
+          {
+            "fid": 6806,
+            "fname": "dawufi"
+          },
+          {
+            "fid": 1606,
+            "fname": "samantha"
+          },
+          {
+            "fid": 3112,
+            "fname": "rileybeans.eth"
+          },
+          {
+            "fid": 16098,
+            "fname": "jpfraneto"
+          },
+          {
+            "fid": 193463,
+            "fname": "illumination"
+          },
+          {
+            "fid": 7409,
+            "fname": "dr3a"
+          },
+          {
+            "fid": 20618,
+            "fname": "jazzlisp.eth"
+          },
+          {
+            "fid": 12679,
+            "fname": "steisasanz22"
+          },
+          {
+            "fid": 19132,
+            "fname": "bemusedlondoner"
+          },
+          {
+            "fid": 1356,
+            "fname": "farcasteradmin.eth"
+          },
+          {
+            "fid": 1626,
+            "fname": "mcbain"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 13323,
+            "fname": "speakup"
+          },
+          {
+            "fid": 1606,
+            "fname": "samantha"
+          },
+          {
+            "fid": 16098,
+            "fname": "jpfraneto"
+          },
+          {
+            "fid": 7409,
+            "fname": "dr3a"
+          }
+        ]
+      },
+      "replies": {
+        "count": 2
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": null,
+    "body": "This is Treasure DAO job vacancies!\nIf you think you'd qualify for one of this jobs, you can check the link below.\n\nLink:\nhttps://twitter.com/Treasure_DAO/jobs",
+    "cast": {
+      "hash": "0x76070f0562f565ec6ce634c57181ba3d1eaa027a",
+      "thread_hash": "0x76070f0562f565ec6ce634c57181ba3d1eaa027a",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 17673,
+        "custody_address": "0x437aa4649a1cba6d10a006096afe401bb4a606d6",
+        "username": "road",
+        "display_name": "Road.bnb",
+        "pfp_url": "https://i.imgur.com/m2jCVJ4.jpg",
+        "profile": {
+          "bio": {
+            "text": "A place where art is reborn.",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 71,
+        "following_count": 408,
+        "verifications": [
+          "0x13988cef5721a77e9a873b9c988559abd698516a"
+        ],
+        "active_status": "inactive"
+      },
+      "text": "This is Treasure DAO job vacancies!\nIf you think you'd qualify for one of this jobs, you can check the link below.\n\nLink:\nhttps://twitter.com/Treasure_DAO/jobs",
+      "timestamp": "2023-11-11T09:57:47.000Z",
+      "embeds": [
+        {
+          "url": "https://i.imgur.com/LGl4X8e.png"
+        },
+        {
+          "url": "https://twitter.com/Treasure_DAO/jobs"
+        }
+      ],
+      "reactions": {
+        "likes": [],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": {
+      "title": "Tech Lead",
+      "company": "Blockus",
+      "description": "Blockus is hiring a tech lead role: senior engineer and above, in SF Bay Area, web3 experience is strongly preferred. If you wanna join a GLHF startup, look no further!",
+      "location": "SF Bay Area",
+      "seniority": "Senior",
+      "category": "Software Engineering"
+    },
+    "body": "Blockus is hiring a tech lead role: senior engineer and above, in SF Bay Area, web3 experience is strongly preferred. If you wanna join a GLHF startup, look no further!",
+    "cast": {
+      "hash": "0xf93bc45546659fdbf747412cc7781eab7854a311",
+      "thread_hash": "0xf93bc45546659fdbf747412cc7781eab7854a311",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 10505,
+        "custody_address": "0xd027414b926477796f277e0229c813143acef184",
+        "username": "linglong",
+        "display_name": "Linglong",
+        "pfp_url": "https://i.seadn.io/gcs/files/4db81f7617d520a238778bb1e2222229.png?w=500&auto=format",
+        "profile": {
+          "bio": {
+            "text": "Cofounder & CTO @Blockus: building web3 gaming infra. ",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 33,
+        "following_count": 64,
+        "verifications": [
+          "0x6ef1a605811e462b7957a0a08ffa9710cf162da5"
+        ],
+        "active_status": "inactive"
+      },
+      "text": "Blockus is hiring a tech lead role: senior engineer and above, in SF Bay Area, web3 experience is strongly preferred. If you wanna join a GLHF startup, look no further!",
+      "timestamp": "2023-11-11T00:32:56.000Z",
+      "embeds": [
+        {
+          "url": "https://i.imgur.com/7IsXxqk.jpg"
+        }
+      ],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 10503,
+            "fname": "ptonewreckin"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 8903,
+            "fname": "jess-zhang-ziyue"
+          }
+        ]
+      },
+      "replies": {
+        "count": 1
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": null,
+    "body": "I'm open to job opportunity suggestions! I'm farcaster and crypto native and I design UI/UX. I would be happy to help people who are building on Farcaster!",
+    "cast": {
+      "hash": "0x0925a5d856af3e34753b748ef15159c98a03ac06",
+      "thread_hash": "0x0925a5d856af3e34753b748ef15159c98a03ac06",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 12912,
+        "custody_address": "0x6692cd9af45a5500b758ffc911fb77b704058bad",
+        "username": "ir",
+        "display_name": "amir🛡️",
+        "pfp_url": "https://i.seadn.io/gcs/files/774137d2a13f3154dfe23e6a8138d4d3.png?w=500&auto=format",
+        "profile": {
+          "bio": {
+            "text": "I'm a web3 explorer.",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 1156,
+        "following_count": 2635,
+        "verifications": [
+          "0x3ed708ca9845cf72dbdcaefd977272695396c71e"
+        ],
+        "active_status": "active"
+      },
+      "text": "I'm open to job opportunity suggestions! I'm farcaster and crypto native and I design UI/UX. I would be happy to help people who are building on Farcaster!",
+      "timestamp": "2023-11-10T20:16:34.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 17395,
+            "fname": "ariadna"
+          },
+          {
+            "fid": 20719,
+            "fname": "calmeetswxrld"
+          },
+          {
+            "fid": 15640,
+            "fname": "porushat.eth"
+          },
+          {
+            "fid": 19132,
+            "fname": "bemusedlondoner"
+          },
+          {
+            "fid": 18885,
+            "fname": "lowbross"
+          },
+          {
+            "fid": 3,
+            "fname": "danromero.eth"
+          },
+          {
+            "fid": 8145,
+            "fname": "andyk"
+          },
+          {
+            "fid": 20618,
+            "fname": "jazzlisp.eth"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 20618,
+            "fname": "jazzlisp.eth"
+          }
+        ]
+      },
+      "replies": {
+        "count": 2
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": null,
+    "body": "Looking for any work, will work for warps. wowow\nhttps://warpcast.com/mcbain/0x1889203a",
+    "cast": {
+      "hash": "0x31944b2528a4f118932d8b58bb866ca4cd2267bc",
+      "thread_hash": "0x31944b2528a4f118932d8b58bb866ca4cd2267bc",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 10694,
+        "custody_address": "0x63c0df9ccb039241bf53baac41cc1d281ef95b63",
+        "username": "chukwukaosakwe",
+        "display_name": "Chukwuka Osakwe",
+        "pfp_url": "https://i.imgur.com/28se29B.jpg",
+        "profile": {
+          "bio": {
+            "text": "Long-suffering Arsenal fan || 0.2x guy, trying to join in building the good for all mankind.",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 605,
+        "following_count": 512,
+        "verifications": [
+          "0x127168ff0b1f42e69b03c38c3888181f3c6c74eb"
+        ],
+        "active_status": "active"
+      },
+      "text": "Looking for any work, will work for warps. wowow\nhttps://warpcast.com/mcbain/0x1889203a",
+      "timestamp": "2023-11-10T20:02:22.000Z",
+      "embeds": [
+        {
+          "url": "https://warpcast.com/mcbain/0x1889203a"
+        }
+      ],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 18240,
+            "fname": "okhai"
+          },
+          {
+            "fid": 5431,
+            "fname": "esdotge.eth"
+          },
+          {
+            "fid": 19132,
+            "fname": "bemusedlondoner"
+          },
+          {
+            "fid": 16863,
+            "fname": "kuusho"
+          },
+          {
+            "fid": 9049,
+            "fname": "vivianavivas"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": {
+      "title": "Marketing/Growth Roles",
+      "company": "Various Companies",
+      "companyWebsite": "https://t.me/+-6mp3m176po4NTFh",
+      "description": "24 new marketing/growth roles open by Circle, Immutable, a16zcrypto, and more.",
+      "category": "Marketing",
+      "subcategory": "Growth"
+    },
+    "body": "Our weekly Web3 Marketing/Growth Jobs round-up is out! In this edition:\n\n💻 24 new marketing/growth roles open by  @circle , @Immutable , @a16zcrypto  and more!\n\n📚 Top 3 reads of the week.\n\n📬 Results from our community poll.\n\n🤝 Are you hiring top talent? Feature your role.\n\nhttps://t.co/Ok0CtOTMPB",
+    "cast": {
+      "hash": "0xbe4f9aa68970a73fd2df4c154293ad12e014a360",
+      "thread_hash": "0xbe4f9aa68970a73fd2df4c154293ad12e014a360",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 4345,
+        "custody_address": "0x4771bfd0b33f841fe612629fecd34393954b9e4a",
+        "username": "matias",
+        "display_name": "Matias",
+        "pfp_url": "https://iili.io/bJacWQ.jpg",
+        "profile": {
+          "bio": {
+            "text": "All things Web3 growth | Formerly Axelar | 🇨🇱\n\nMarketing / Growth Community 👉 https://t.me/+-6mp3m176po4NTFh",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 29,
+        "following_count": 27,
+        "verifications": [
+          "0xd5abeef5b666a14fb45bd26df562a35e124afbb1"
+        ],
+        "active_status": "inactive"
+      },
+      "text": "Our weekly Web3 Marketing/Growth Jobs round-up is out! In this edition:\n\n💻 24 new marketing/growth roles open by  @circle , @Immutable , @a16zcrypto  and more!\n\n📚 Top 3 reads of the week.\n\n📬 Results from our community poll.\n\n🤝 Are you hiring top talent? Feature your role.\n\nhttps://t.co/Ok0CtOTMPB",
+      "timestamp": "2023-11-10T19:25:43.000Z",
+      "embeds": [
+        {
+          "url": "https://t.co/Ok0CtOTMPB"
+        }
+      ],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 19132,
+            "fname": "bemusedlondoner"
+          },
+          {
+            "fid": 11477,
+            "fname": "rafaelxfajardo"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 1
+      },
+      "mentioned_profiles": [
+        {
+          "object": "user",
+          "fid": 6170,
+          "custody_address": "0xac84a927b59b0fdcd930cf4942fde840e5fdb249",
+          "username": "circle",
+          "display_name": "circle",
+          "pfp_url": "https://explorer.farcaster.xyz/avatar.png",
+          "profile": {
+            "bio": {
+              "text": "live laugh love",
+              "mentioned_profiles": []
+            }
+          },
+          "follower_count": 4,
+          "following_count": 0,
+          "verifications": [],
+          "active_status": "inactive"
+        },
+        {
+          "object": "user",
+          "fid": 1786,
+          "custody_address": "0x379a0701446b5c9ca08c2ff67b4014f1ca7532c7",
+          "username": "a16zcrypto",
+          "display_name": "a16zcrypto",
+          "pfp_url": "https://i.imgur.com/dBzXsRs.jpg",
+          "profile": {
+            "bio": {
+              "text": "We back bold entrepreneurs building the next internet. \na16zcrypto.com/",
+              "mentioned_profiles": []
+            }
+          },
+          "follower_count": 2256,
+          "following_count": 156,
+          "verifications": [],
+          "active_status": "inactive"
+        }
+      ]
+    }
+  },
+  {
+    "extractedDetails": {
+      "title": "Smart Contract Developer",
+      "company": "Everbuild",
+      "companyWebsite": "https://www.everbuild.pro",
+      "description": "Smart Contract gig available with us, focusing on Ethereum blockchain token staking contracts application.",
+      "location": "Remote",
+      "type": "Contract",
+      "seniority": "Undefined",
+      "salary": "Undefined",
+      "equity": "Undefined",
+      "category": "Software Engineering",
+      "subcategory": "Blockchain"
+    },
+    "body": "Smart Contract gig available w/ us 🥁:\n\nhttps://www.everbuild.pro/request/eth-blockchain-token-staking-contracts-app/\n\nGet verified into our talent pool in order to apply 🤓:\n\nhttps://www.everbuild.pro/talent-registration-form/",
+    "cast": {
+      "hash": "0x5782209bb4132306a4ae26702d90c574259744f3",
+      "thread_hash": "0x5782209bb4132306a4ae26702d90c574259744f3",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 19132,
+        "custody_address": "0x9bd7c166795384d8e786dc916033c3a47e46c12f",
+        "username": "bemusedlondoner",
+        "display_name": "Gregory ",
+        "pfp_url": "https://i.imgur.com/113Jh2r.jpg",
+        "profile": {
+          "bio": {
+            "text": "Oh hey :)\n\nBuilding www.Everbuild.pro in a stream of thought 🌊",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 218,
+        "following_count": 302,
+        "verifications": [
+          "0x3e4ed7e25185071b22bef0c71d3840ebbb70056f"
+        ],
+        "active_status": "active"
+      },
+      "text": "Smart Contract gig available w/ us 🥁:\n\nhttps://www.everbuild.pro/request/eth-blockchain-token-staking-contracts-app/\n\nGet verified into our talent pool in order to apply 🤓:\n\nhttps://www.everbuild.pro/talent-registration-form/",
+      "timestamp": "2023-11-10T14:56:22.000Z",
+      "embeds": [
+        {
+          "url": "https://i.imgur.com/g6WSRJZ.jpg"
+        },
+        {
+          "url": "https://www.everbuild.pro/request/eth-blockchain-token-staking-contracts-app/"
+        }
+      ],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 192614,
+            "fname": "spencer-sch"
+          },
+          {
+            "fid": 20719,
+            "fname": "calmeetswxrld"
+          },
+          {
+            "fid": 193158,
+            "fname": "brykayne"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "mentioned_profiles": []
+    }
+  },
+  {
+    "extractedDetails": {
+      "title": "Core Solidity Contributor",
+      "company": "blossom.land",
+      "companyWebsite": "https://blossom.land",
+      "description": "Call for core solidity contributor to join us! We are looking for full time core contributor on solidity side.",
+      "location": "Remote",
+      "type": "Full-Time",
+      "seniority": "Not Specified",
+      "salary": "Not Specified",
+      "equity": "Not Specified",
+      "category": "Software Engineering",
+      "subcategory": "Solidity"
+    },
+    "body": "Call for core solidity contributooor to join us!\n\nAs some of u know, together with @pentacle \nand a few others building a reputation/endorsement experiment blossom.land utilizing https://attest.sh/ by chads @stevedakh @bap \n\nwe are looking for full time core contributor on solidity side.",
+    "cast": {
+      "hash": "0x595bd1966e02fc0390195a298a41918c3912740a",
+      "thread_hash": "0x595bd1966e02fc0390195a298a41918c3912740a",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 1364,
+        "custody_address": "0x36e5e5b0d9c66a9cf3a3ccf2e6a459bd832afc4b",
+        "username": "nemo",
+        "display_name": "Captain Nemo 🦞🦇🔊",
+        "pfp_url": "https://pbs.twimg.com/profile_images/1518192436643835905/PT9xUm0__400x400.jpg",
+        "profile": {
+          "bio": {
+            "text": "Semi-tokenized.\nSpawner daedalus.gg\nAlso buidling smold.app and blossom.land\nhttps://findnemo.eth.limo/",
+            "mentioned_profiles": []
+          }
+        },
+        "follower_count": 73,
+        "following_count": 97,
+        "verifications": [
+          "0x17640d0d8c93bf710b6ee4208997bb727b5b7bc2"
+        ],
+        "active_status": "inactive"
+      },
+      "text": "Call for core solidity contributooor to join us!\n\nAs some of u know, together with @pentacle \nand a few others building a reputation/endorsement experiment blossom.land utilizing https://attest.sh/ by chads @stevedakh @bap \n\nwe are looking for full time core contributor on solidity side.",
+      "timestamp": "2023-11-10T11:34:53.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes": [
+          {
+            "fid": 3243,
+            "fname": "stevyhacker"
+          },
+          {
+            "fid": 18817,
+            "fname": "rhovian"
+          },
+          {
+            "fid": 5964,
+            "fname": "francos.eth"
+          },
+          {
+            "fid": 191441,
+            "fname": "phongt"
+          },
+          {
+            "fid": 3621,
+            "fname": "horsefacts.eth"
+          },
+          {
+            "fid": 2390,
+            "fname": "dhadrien.eth"
+          },
+          {
+            "fid": 19132,
+            "fname": "bemusedlondoner"
+          },
+          {
+            "fid": 193791,
+            "fname": "det"
+          },
+          {
+            "fid": 193005,
+            "fname": "littledragongirl"
+          },
+          {
+            "fid": 680,
+            "fname": "wojtek.eth"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 3621,
+            "fname": "horsefacts.eth"
+          },
+          {
+            "fid": 2390,
+            "fname": "dhadrien.eth"
+          },
+          {
+            "fid": 680,
+            "fname": "wojtek.eth"
+          }
+        ]
+      },
+      "replies": {
+        "count": 2
+      },
+      "mentioned_profiles": [
+        {
+          "object": "user",
+          "fid": 1068,
+          "custody_address": "0xa7d83cb57522c7167f1b0eb50762ab6f99cde8ec",
+          "username": "pentacle",
+          "display_name": "pentacle",
+          "pfp_url": "https://static.wikia.nocookie.net/howlscastle/images/7/79/Sophie_7552.jpg",
+          "profile": {
+            "bio": {
+              "text": "tea lady \npentacle.xyz",
+              "mentioned_profiles": []
+            }
+          },
+          "follower_count": 96,
+          "following_count": 77,
+          "verifications": [],
+          "active_status": "inactive"
+        },
+        {
+          "object": "user",
+          "fid": 20098,
+          "custody_address": "0x4702d402878fbf4a1d971a139a86a56ef7c95ef7",
+          "username": "stevedakh",
+          "display_name": "Steve Dakh",
+          "pfp_url": "https://i.imgur.com/P3Dd26A.jpg",
+          "profile": {
+            "bio": {
+              "text": "Building the Ethereum Attestation Service attest.sh",
+              "mentioned_profiles": []
+            }
+          },
+          "follower_count": 51,
+          "following_count": 27,
+          "verifications": [],
+          "active_status": "inactive"
+        },
+        {
+          "object": "user",
+          "fid": 9848,
+          "custody_address": "0x6c425623823ab8500b3d10f9b15816364545ca86",
+          "username": "bap",
+          "display_name": "Bryce",
+          "pfp_url": "https://i.imgur.com/Gm0mzyo.jpg",
+          "profile": {
+            "bio": {
+              "text": "Core team @ Ethereum Attestation Service. Product person with some salty dev & design skills. \n\nhttps://attest.sh",
+              "mentioned_profiles": []
+            }
+          },
+          "follower_count": 120,
+          "following_count": 40,
+          "verifications": [],
+          "active_status": "inactive"
+        }
+      ]
+    }
+  }
+]
